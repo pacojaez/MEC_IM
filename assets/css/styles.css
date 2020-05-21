@@ -1,0 +1,9 @@
+#imagencabecera {
+    background-image: url(../img/bgmicroscopio.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+body {
+    background-color: gray;
+}
